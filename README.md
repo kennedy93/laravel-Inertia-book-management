@@ -1,7 +1,7 @@
 # 📚 Book CRUD with Authentication
 
 
-# A simple Book Management System built with Laravel, Inertia.js, Vue.js, and SQLite, featuring full authentication and CRUD operations.
+## A simple Book Management System built with Laravel, Inertia.js, Vue.js, and SQLite, featuring full authentication and CRUD operations.
 
 
 # 🚀 Features
