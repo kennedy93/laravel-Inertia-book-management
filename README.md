@@ -95,7 +95,7 @@ Contributions are welcome! Feel free to submit a PR or open an issue.
 
 
 
-📞 Contact
+#### 📞 Contact
 
 GitHub: kennedy93
 
