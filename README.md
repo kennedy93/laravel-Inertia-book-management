@@ -1,10 +1,10 @@
-# 📚 Book CRUD with Authentication
+## 📚 Book CRUD with Authentication
 
 
-## A simple Book Management System built with Laravel, Inertia.js, Vue.js, and SQLite, featuring full authentication and CRUD operations.
+### A simple Book Management System built with Laravel, Inertia.js, Vue.js, and SQLite, featuring full authentication and CRUD operations.
 
 
-# 🚀 Features
+#### 🚀 Features
 
 ✅ Authentication (Login, Register, Logout)
 
@@ -18,7 +18,7 @@
 
 
 
-# 📦 Tech Stack
+#### 📦 Tech Stack
 
 Backend: Laravel 11.x
 
@@ -30,7 +30,7 @@ Authentication: Laravel Breeze
 
 
 
-# 🔧 Installation
+#### 🔧 Installation
 
 1️⃣ Clone the Repository
 
@@ -83,13 +83,13 @@ php artisan serve  # Start backend
 
 
 
-# 📜 License
+#### 📜 License
 
 This project is open-source under the MIT License.
 
 
 
-# 🙌 Contributing
+#### 🙌 Contributing
 
 Contributions are welcome! Feel free to submit a PR or open an issue.
 
